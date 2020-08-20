@@ -4,7 +4,7 @@
 \name{psylisten-package}
 \alias{psylisten}
 \alias{psylisten-package}
-\title{psylisten: Collection of LongGold psychTestR listening tests}
+\title{psylisten: LongGold psychTestR listening tests}
 \description{
 Implementation of a LongGold test battery consisting of a selection of listening tests based on the psychTestR library. Demos of the whole set of performance tests, listening tests, and questionnaires can be accessed at https://shiny.gold-msi.org/longgold_demo.
 }
