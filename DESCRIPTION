@@ -1,6 +1,5 @@
 Package: psylisten
-Type: Package
-Title: Collection of LongGold psychTestR listening tests
+Title: LongGold psychTestR listening tests
 Version: 0.99.0
 Author: Frank Höger, Klaus Frieler
 Maintainer: Frank Höger <fmhoeger@mirsem.org>
@@ -35,6 +34,7 @@ Suggests:
     testthat
 Remotes:
     pmcharrison/cabat,
+    klausfrieler/BDT,
     klausfrieler/EDT,
     pmcharrison/mdt,
     pmcharrison/mpt,

@@ -1,6 +1,5 @@
 # psylisten
-Collection of the LongGold psychTestR performance tests and questionnaires
-
+LongGold psychTestR listening tests
 
 
 # Manual installation of packages
@@ -19,5 +18,5 @@ remove.packages("mpt")
 remove.packages("piat")
 remove.packages("RAT")
 remove.packages("psylisten")
-remove.packages("psychTestR")
 remove.packages("psychTestRCAT")
+remove.packages("psychTestR")
