@@ -21,6 +21,7 @@ Imports:
     rstudioapi (>= 0.11),
     tibble (>= 3.0.3),
     cabat (>= 0.9.0),
+    BDT (>= 0.1.1),
     EDT (>= 0.2.0),
     mdt (>= 2.3.0),
     mpt (>= 0.8.0),

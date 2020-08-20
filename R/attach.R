@@ -1,4 +1,4 @@
-core <- c("cabat", "EDT", "mdt", "mpt", "piat", "RAT")
+core <- c("BDT", "cabat", "EDT", "mdt", "mpt", "piat", "RAT")
 
 core_unloaded <- function() {
   search <- paste0("package:", core)
